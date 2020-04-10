@@ -1,0 +1,37 @@
+.b
+{
+font-weight:100; <!-- normal/bold/bolder/lighter/number-->
+height:1000%;
+font-size:500%;
+color:red;
+}
+body
+{
+ background-image: url('grocery2.jpg');
+ background-repeat:no-repeat;
+
+}  
+.a
+{
+text-decoration:underline;
+text-indent:-50px;
+text-transform:small;
+letter-spacing:20px;
+word-spacing:10px;
+font-style:italic; <!-- normal/italic/oblique-->
+font-weight:100; <!-- normal/bold/bolder/lighter/number-->
+height:800%;
+font-size:400%;
+color:green;
+}
+h1
+{
+padding:1000x;
+margin:20px;
+
+text-align:left;
+color:white;
+font-family:courier;
+font-size:200%;
+
+}   
